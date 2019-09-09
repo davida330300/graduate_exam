@@ -1,0 +1,93 @@
+腐蝕定義:
+材料受化學攻擊而引起的退化，受溫度、濃度..影響
+
+分別探討金屬、陶瓷、高分子...
+
+
+金屬:
+視為金屬冶金的逆反應，通常是電化學反應，金屬藉著腐蝕過程自發變較低的能態
+氧化和還原的速率需一樣!
+幾種還原反應:
+1.溶氧酸性
+2.溶氧鹼性(中性)
+3.galvanic couple解釋
+4.標準半電池:25度C、純金屬、1M
+5.標準氫電池:25度C、Pt電極、1M氫離子溶液、1atm，以其標準排出emf序列
+※越正的還原電位，越自發氧化(Callister)
+  越負的氧化電位，越自發氧化(Smith)
+6.濃度影響:能斯特 ；比較-標準電池:都1M
+7.galvanic series:更實用，於海水中的相對反應性
+有些因為產生passive film而影響活性
+注意活性Zn>Al
+
+※補充一些電池
+單電極的微觀galvanic:來自structural irregularities，形成局部陰陽極
+濃度galvanic:金屬離子濃度低的為陽極
+氧氣濃度galvanic:氧氣濃度低的為陽極(陰極反應需氧氣)
+晶粒-晶界:一般晶界是陽極；若因solute segregation使晶界變較穩定，而成為陰極，附近區域變陽極
+多相:會產生相對的陰級和陽極 EX.pearlitic gray:波來陽極、石墨陰極
+                               沃斯田鐵quench變麻舔傘鐵，增加抗蝕性(單相)
+                               雜質(介金屬相析出)
+
+腐蝕速率(2種)
+1.腐蝕穿透速率CPR:每單位時間的"厚度"損失(長度/時間)
+2.以"電流密度"表示:r=i/nF※注意到電流密度和腐蝕速率正相關
+※smith-farafay's eq
+  W= ItM/nF = JAtM/nF 用重量=莫耳數*分子量來推
+極化:電極電位偏離平衡值得值(※cathodic polarization)
+1.Activation(高濃度低反應速率)，overvoltage=?、overvoltage-電流密度圖?
+2.Concentration(低濃度高反應速率，depletion)，overvoltage=?、overvoltage-電流密度圖?
+
+鈍化
+1.氧化理論:氧化層為擴散障壁
+2.吸收理論:氧的化學吸收層，(使水合降低)
+3.化學電位-電流密度圖?(active、passive、transpassive)
+環境效應:流動速率、溫度、腐蝕物、冷加工高能態易受攻擊
+腐蝕防治:材料、環境、設計、鍍層、inhabitors(可能機構?)、陰極保護(舉例*3)
+腐蝕形式、氫脆
+1.均勻腐蝕:隨積的EX.鐵鏽、銀失去光澤(tarnishing)
+2.galvanic腐蝕:避免方法?序列近、陽極面積加大(電流密度減)、金屬間絕緣、陰極保護
+               好的應用:乾電池、陰極保護
+3.間隙腐蝕:間隙高濃度氫離子，發生於金屬離子低濃度處(由nernst)，氯離子去平衡，產生酸
+4.pitting:孔氧化，表面還原，局部向下(由heterogeneities起始)
+5.intergranular:Cr形成碳化物析出，使Cr貧乏區受腐蝕
+  解決方法?熱處理(500~800度C再水quench)、減少碳(304L stainless)、更會形成碳化物的金屬(Nb.Ti)
+6.selective leaching(dezincification)
+7.erosion-corrosion
+8.stress corrosion(Stress corrosion cracking )
+9.Fretting corrossion:因振動或slip，使氧化層破裂，形成磨粒
+10.Cavitation damage:在孔洞的氣泡有高壓力
+氫脆:氫原子間隙擴散穿過晶格，機構為溶解氫對差排的干擾，解決辦法?熱處理、除氫源、bakeout、材料
+
+Scale:P-B ratio?
+氧化後產生氧化物體積和消耗金屬之體積的比例
+
+P-B   <1     1~2     >2
+     多孔  有氧化層 剝落  極薄氧化層
+W-t  線性   拋物線  線性    對數      (單位面積得到的重量-time)
+
+P-B在1~2，還分為保護性、非保護性    因素:氧化模和金屬的附著力、熱膨脹系數
+                ^^^^^^  ^^^^^^^^         較高熔點有較好的高溫塑性
+             EX.Ni.Be   Cd.Ag.Ti 
+--------------------------------------------------------------------------------
+陶瓷:視為已被腐蝕，高抵抗，簡單溶解
+------------------------------------
+高分子:degradation、physiochemical
+swelling&溶解:
+小溶質填入高分子使次級鍵結、玻轉溫度↓:軟
+1.rule of thumb?
+2.分子量大或降低溫度→交鏈(共價鍵，影響較大)、結晶度(次級)↑→越抗degradation
+Bond rupture:
+scission:使切開點分離，降低分子量，影響性質
+1.輻射:離子化
+2.化學反應:臭氧中，硫化橡膠雙鍵處
+3.熱效應
+Weathering:UV、氧化、吸水
+------------------------------------------------------
+大腿骨脛案例
+可能材料:不銹鋼(316L低硫量)、Co-Ni-Cr-Mo(MP35N)、Ti合金(Ti-6Al-4V生物相容)
+固定劑:PMMA(壓克力)!
+
+
+
+

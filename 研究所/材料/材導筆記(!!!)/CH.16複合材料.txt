@@ -1,0 +1,122 @@
+複合物分成質點強化、纖維強化、結構複合物
+------------------------------------------
+質點強化分成大質點、分散強化
+
+大質點:
+1.連續機構、非分子level
+2.混合率(上下限公式)
+3.EX.cermet(耐火碳化物+金屬)、碳黑(碳粒子+硫化橡膠)、concrete(都陶瓷)
+※混凝土:CaO、SiO2、Al2O3、Fe2O3
+※波特蘭水泥5種type
+Type I  :不需抗sulfate攻擊，一般用
+Type II :抗中等程度sulfate攻擊，中等
+Type III:需要快速形成強度for quick use，快乾
+Type IV :水泥放熱的速率和量需最小，低水合反應熱 EX.for水壩
+Type V  :很抗sulfate攻擊
+C3S的水合反應通常在2天內完成，先期強化!
+壓縮力發展28天，(水/水泥比)決定壓縮強度，水越多，越弱
+強化可持續好幾年
+4.強化混凝土:添加增強物、混高模數、pretensioned(stretched)、posttensioned(bending)
+5.air-entrained混凝土:含小泡泡、抵抗freezing和增加可加工性
+
+分散強化:分子level、阻礙差排、不需熱處理、可高溫(分散相不與基材反應) EX.TD Ni、SAP燒結鋁粉
+析出硬化:           阻礙差排、  要熱處理  會時效
+----------------------------------------------------------
+纖維強化
+1.臨界長度=纖維最大TS*纖維直徑/2*剪力降伏強度，大於15倍才連續
+2.軸向負載(等應變):彈性模數即上限公式、F正比EV、TS=ΣσV(注意是纖維破裂時)
+3.橫向負載(等應力):        即下限公式、TS很低
+※isostrain可達到較高的模數值
+4.不連續且隨機:E=KEV(纖維)+EV(matrix)；K=0.1~0.6
+--------------------------------------------------------------------------------
+纖維相
+直徑小到大:whiskers→fiber→wires
+基材相
+1.固定纖維，傳導應力
+2.保護纖維
+3.分開纖維，避免裂紋傳播
+-----------------------------------------------------
+玻璃纖維:
+E-glass:borosilicate glass(SiO2、CaO、Al2O3、B2O3)最普遍!!     TS=3.44GPa E=72.3GPa
+S-glass:magnesia-alumina-silicates glass，更強更貴，軍事、航空 TS=4.48GPa E=85.4GPa
+生產
+1.從furnace拉出monofilaments，再聚集形成strand
+2.這些strand常用樹脂黏著劑黏在一起
+性質
+比carbon、aramid弱，但伸長率較高，便宜且普遍。
+密度較另2個大(另兩個都有輕量化特質)
+
+碳纖維:
+所有增強纖維中最高比模數、比強度，輕量高剛度，高溫也能維持(但may氧化)
+直徑7~10μm
+三種precursor:rayon.PAN.pitch
+製程三步驟?
+1.穩定化stabilization:PAN被拉伸和氧化，約200度C
+2.碳化carbonization:穩定後在inert atmosphere加熱，1000~1500度C，除去O.H.N，增加強度
+3.石墨化graphitization:更高溫1800度C，增加彈性模數，但會減小強度
+PAN carbon fiber:TS=3.1~4.45GPa E=200多GPa
+※並非完全結晶，由石墨和非結晶區域組成(無三維六方網狀!)
+※分類常依據抗拉模數，分四個等級，直徑約4~10μm
+  碳纖維常會塗上epoxy(環氧樹脂)保護，並增加吸附性
+
+aramid纖維=aromatic polyamide fiber(Kevlar)(舉手投足機器人)
+低密度，高強度，Kevlar49比29多了高模數的性質，可用在航太工業
+氫鍵使bond再一起
+抗疲勞、高強度、輕量化
+※
+Carbon fibers provide best combination of properties
+碳纖維和aramid fiber可以取代鋼和鋁在航空的應用
+---------------------------------------------------------------------
+高分子基材、金屬基材、陶瓷基材
+------------------------------
+高分子基材
+polyester resins:便宜、較弱
+epoxy resins:較貴、較強、收縮低，for碳纖維、aramid fiber
+
+玻璃纖維增強polyester resins:玻璃wt%越高，越強，非平行排列會減少強度
+
+碳纖維增強epoxy resins:碳纖維提供剛度和強度，epoxy resins提供衝擊強度
+碳纖維基材還可能用:polyamide、polyphenylene sulfides、polysulfones
+藉由laminate的構造達到強度要求
+
+金屬基材
+製程2步驟:1.consolidation 2.synthesis
+可用在高溫
+
+陶瓷基材
+目的:增加fracture toughness
+方法:1.轉換韌化 2.ceramic-whisker抑制crack
+toughening機制
+1.crack deflection
+2.crack bridging
+3.fuber pullout
+-----------------------------------------------------
+碳-碳複合物:碳纖維插入在熱解的碳matrix內
+最先進，缺點是高溫氧化 
+----------------------------------------------------
+結構複合物
+1.laminates:不同層有不同高強度方向
+2.三明治盤:兩個高強度平面中間以低密度的核心材料間隔
+
+※碳黑:非常小的球型顆粒，由天然氣或油在有限空氣燃燒產生
+       汽車輪胎包含15~30vol%，尺寸直徑約20~50nm間(大質點強化)
+※TD Ni(3vol% ThO2)，分散強化
+
+※E-glass:硼矽酸鹽，最普遍，良好的電絕緣性
+  S-glass:更高強度，Mg-Al-Si
+
+※陶瓷複合材料、奈米技術carbon nanotubes + alumina
+高導電性、fracture toughness增加五倍
+
+※asphalt + aggregate -> paving road
+  angular aggregate ->較高的skid resistance(煞車阻)
+
+
+
+
+
+
+
+
+
+            
